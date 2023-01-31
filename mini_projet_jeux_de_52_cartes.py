@@ -56,10 +56,3 @@ for joueur in range(n):                            #pour afficher les cartes par
 print("pot : ", pot)
 
 """print(jeu_de_cartes)"""
-
-
-
-
-
-
-
